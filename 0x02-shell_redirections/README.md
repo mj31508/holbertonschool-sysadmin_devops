@@ -1,0 +1,1 @@
+Read me file for input output redirection. I will add to this later.
